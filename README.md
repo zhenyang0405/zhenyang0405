@@ -52,7 +52,7 @@ fun_fact: I debug distributed systems by day and build AI agents by night
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,kafka,redis,docker,postgresql,pytorch&theme=light" alt="Backend & Infra"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,kafka,redis,docker,postgresql,pytorch,supabase,mongodb&theme=light" alt="Backend & Infra"/>
   </a>
 </p>
 
@@ -136,5 +136,5 @@ AI agent that autonomously scours trending news, research & competitor announcem
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/chongzhenyang0405/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
