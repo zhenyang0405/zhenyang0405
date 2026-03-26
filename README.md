@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Zhen Yang
+name: Chong Zhen Yang
 role: Senior Analyst, Back-End Developer @ Avanade
 education: Master of Computing (Part-Time) — National University of Singapore (2025–2027)
 location: Singapore 🇸🇬
@@ -80,8 +80,8 @@ Real-time translation service powered by **Google Agent Development Kit** with l
 </td>
 <td width="50%">
 
-### 🎓 [Kno AI-Educate](https://github.com/zhenyang0405/Kno-AI)
-Adaptive learning platform with multi-agent architecture, built for the **Gemini API Developer Competition**.
+### 🎓 [Kno AI-Educate](https://github.com/zhenyang0405/Kno-AI-Educate)
+Adaptive learning platform with multi-agent architecture, built for the **Gemini 3 Hackathon**.
 
 `Gemini API` `Multi-Agent` `Adaptive Learning` `Python`
 
