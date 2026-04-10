@@ -27,16 +27,6 @@ fun_fact: I debug distributed systems by day and build AI agents by night
 
 ---
 
-## 🏅 Certifications
-
-| Cloud | Certification |
-|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=gcp&theme=light" alt="Google Cloud Platform"/> | **Professional Cloud Architect** |
-| <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Service"/> | **Cloud Practitioner (CCP)** |
-| <img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure"/> | **Azure Developer Associate, Azure AI Engineer Associate**|
-
----
-
 ## 📈 What I'm Up To
 
 ```
@@ -44,7 +34,7 @@ fun_fact: I debug distributed systems by day and build AI agents by night
 [2025-12] 🎉 Promoted to Senior Analyst, Back-End Developer @ Avanade
 [2026-01] 🤖 Building multi-agent AI systems with LangGraph & Google ADK
 [2026-02] 🏆 Competing in Kaggle MedGemma, Gemini API & multiple AI hackathons
-[  NOW  ] 🎯 Seeking Senior SWE (Fullstack / AI) roles — let's talk!
+[  NOW  ] 🎯 Building AI application + Seeking SWE (Fullstack / AI) roles — let's talk!
 ```
 
 ---
